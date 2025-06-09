@@ -24,7 +24,7 @@ public class EbookService {
         List<Ebook> ebooklist = mapper.selectByExample(ebookExample);
 
 //        List<EbookResp> respList = new ArrayList<>();
-//        for (Ebook ebook : ebooklist) {
+//        for (Ebook ebook : ebookist) {
 ////            EbookResp ebookResp = new EbookResp();
 ////            BeanUtils.copyProperties(ebook, ebookResp);
 //            //对象复制
