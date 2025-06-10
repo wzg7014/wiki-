@@ -11,7 +11,7 @@
         nav 1111
       </a-menu-item>
       <a-menu-item key="2">
-        nav 2
+        nav 2222
       </a-menu-item>
       <a-menu-item key="3">
         nav 3
