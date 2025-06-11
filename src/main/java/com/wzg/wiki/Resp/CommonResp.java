@@ -1,4 +1,4 @@
-package Resp;
+package com.wzg.wiki.Resp;
 
 public class CommonResp<T> {
 

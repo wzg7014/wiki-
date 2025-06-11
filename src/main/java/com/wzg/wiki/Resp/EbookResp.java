@@ -1,4 +1,4 @@
-package Resp;
+package com.wzg.wiki.Resp;
 
 public class EbookResp {
     private Long id;

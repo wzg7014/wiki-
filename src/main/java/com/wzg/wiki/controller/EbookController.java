@@ -1,7 +1,7 @@
 package com.wzg.wiki.controller;
 
-import Resp.CommonResp;
-import Resp.EbookResp;
+import com.wzg.wiki.Resp.CommonResp;
+import com.wzg.wiki.Resp.EbookResp;
 import com.wzg.wiki.req.EbookReq;
 import com.wzg.wiki.service.EbookService;
 import jakarta.annotation.Resource;

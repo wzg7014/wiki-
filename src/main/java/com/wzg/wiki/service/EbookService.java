@@ -1,6 +1,6 @@
 package com.wzg.wiki.service;
 
-import Resp.EbookResp;
+import com.wzg.wiki.Resp.EbookResp;
 import com.wzg.wiki.domain.Ebook;
 import com.wzg.wiki.domain.EbookExample;
 import com.wzg.wiki.mapper.EbookMapper;
